@@ -1,0 +1,12 @@
+/target
+/my_project
+/new_project
+ruby-output.md
+/.idea/
+/example/node_modules/
+/example/target/
+test_project/
+deno_text/
+.vite/
+Cargo.lock
+/rustyroad_mvc/target
